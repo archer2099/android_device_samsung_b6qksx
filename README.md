@@ -5,7 +5,7 @@ Not available.
 
 ## Clone repo
 ```bash 
-git clone -b android-12.1 https://github.com/archer2099/android_device_samsung_b6qksx device/samsung/q6q
+git clone -b android-12.1 https://github.com/archer2099/android_device_samsung_q6qksx device/samsung/q6q
 ```
 
 ## To build 

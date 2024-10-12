@@ -1,4 +1,4 @@
-# TWRP Device Tree for Samsung Galaxy Z Fold6 5G (Korean version)
+# TWRP Device Tree for Samsung Galaxy Z Fold6 5G (Korea version)
 
 ## For Decryption
 Not available.

@@ -184,6 +184,6 @@ TW_HAS_DOWNLOAD_MODE := true
 # Statusbar icons flags
 TW_STATUS_ICONS_ALIGN := center
 
-# Touch fix for Fold & Tablet screen
+# Fix touchscreen wrong position point
 RECOVERY_TOUCHSCREEN_FLIP_Y := true
 RECOVERY_TOUCHSCREEN_SWAP_XY := true
